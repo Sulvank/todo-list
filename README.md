@@ -1,5 +1,3 @@
-# todo-list
-Todo list smart-contract
 # **📋 Todo List - Smart Contract for Task Management**
 
 ## **📝 Overview**
